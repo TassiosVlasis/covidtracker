@@ -5,5 +5,5 @@
 
 # Introduction 
 
-This is a covid tracker project.
+This is a covid tracker project.<br/>
 API used: https://covid19.mathdro.id/api & https://api.covidtracking.com/v1/us/daily.json
